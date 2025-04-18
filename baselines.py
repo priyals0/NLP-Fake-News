@@ -120,4 +120,4 @@ sns.heatmap(cm_logreg, annot=True, fmt='d', cmap='Purples',  yticklabels=["Predi
 plt.title("SVM Confusion Matrix")
 plt.gca().xaxis.tick_top()
 plt.gca().xaxis.set_label_position('top')
-plt.show()
+plt.show(block=False)
