@@ -1,0 +1,3330 @@
+prompt 1: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Building a wall on the U.S.-Mexico border will take literally years.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 2: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Wisconsin is on pace to double the number of layoffs this year.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 3: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says John McCain has done nothing to help the vets.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 4: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	When asked by a reporter whether hes at the center of a criminal scheme to violate campaign laws, Gov. Scott Walker nodded yes.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 5: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Over the past five years the federal government has paid out $601 million in retirement and disability benefits to deceased former federal employees.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 6: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says that Tennessee law requires that schools receive half of proceeds -- $31 million per year -- from a half-cent increase in the Shelby County sales tax.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 7: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Donald Trump is against marriage equality. He wants to go back.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 8: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Denali is the Kenyan word for black power.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 9: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says 57 percent of federal spending goes to the military and just 1 percent goes to food and agriculture, including food stamps.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 10: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the unemployment rate for college graduates is 4.4 percent and over 10 percent for noncollege-educated.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 11: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Unfortunately we have documented instances where people defecated in the (Statehouse) building.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 12: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Each year, 18,000 people die in America because they don't have health care."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 13: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Ronald Reagan faced an even worse recession" than the current one.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 14: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The number of illegal immigrants could be 3 million. It could be 30 million.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 15: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Charlie Crist is embroiled in a fraud case for steering taxpayer money to a de facto Ponzi scheme.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 16: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Now, there was a time when someone like Scalia and Ginsburg got 95-plus votes.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 17: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Contends that President Obama literally said (if) his cap-and-trade proposals were to pass, that utility rates, his words now, would, necessarily skyrocket.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 18: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Its been since 1888 that a Senate of a different party than the president in the White House confirmed a Supreme Court nominee.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 19: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Under Rosemary Lehmberg, the Travis County D.A.s office convened the grand jury that indicted Rick Perry.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 20: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The United States has a low voter turnout rate.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 21: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Fed created $1.2 trillion out of nothing, gave it to banks, and some of them foreign banks, so that they could stabilize their operations.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 22: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Texas families have kept more than $10 billion in their family budgets since we successfully fought to restore Texas sales tax deduction a decade ago.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 23: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says he won the second debate with Hillary Clinton in a landslide in every poll.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 24: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A proposed tax to fund transportation projects would spend $90,000 to take a single vehicle off the road during the morning and afternoon commute.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 25: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	When undocumented children are picked up at the border and told to appear later in court ... 90 percent do not then show up.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 26: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	ACORN will be a paid partner with the Census Bureau and they will be in charge of going door-to-door and collecting data from the American public.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 27: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Sixty percent of the Hispanics support the Arizona immigration law
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 28: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Bill and Hillary Clinton attended Donald Trumps last wedding.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 29: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I did not play any role in bringing the company to RI as did others in government. I was tasked with handling the legislation affecting the company by my superiors.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 30: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The tax cut deal is giving $700 billion to millionaires and billionaires.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 31: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	As secretary of the Department of Energy under former President Bill Clinton, "I created reserves of home heating oil."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 32: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Twenty-five states have lower unemployment than Texas which is tied with Mississippi for more minimum-wage jobs than anywhere in the United States.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 33: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A strong bipartisan majority in the House of Representatives voted to defund Obamacare.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 34: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	What the facts say is ...the best scenario for kids is a loving mom and dad.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 35: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Mark Neumann = Nancy Pelosi
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 36: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Rebuilding three high schools will benefit 40 percent of Portland Public School students.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 37: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Providence has the lowest crime rate in three decades.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 38: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On banning earmarks.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 39: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A judges order means theres a Constitution exemption zone if you live within 100 miles of the United States border.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 40: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Pepper ... kicked off a jock tax, imposing a levy on the sports and entertainment industry.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 41: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Under Mayor Tom Barrett, the number of Milwaukee police officers has not increased.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 42: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	President Obama, Sen. Harry Reid and Rep. Nancy Pelosi passed a $1.2 trillion stimulus bill.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 43: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Milken Institute rated San Antonio as nations top-performing local economy.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 44: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says people in Africa literally walk two and three hundred miles in order to vote.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 45: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Before World War II, very few people actually had health insurance.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 46: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Half of children struck by cars near schools are hit by parents driving children to school.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 47: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Putting three Republicans in my Cabinet...is unprecedented.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 48: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I am very proud, as governor of Florida, that we signed the first divestment act, as it relates to Iran, divesting any investments in companies that would invest in Iran.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 49: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	As a result of climate change, ice fishermen in Wisconsin are already noticing fewer days they can be out on our ice covered lakes.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 50: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Donald Trump said of women, And you can tell them to go f--- themselves.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 51: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Taliban has been there for years and years, I mean, hundreds of thousands of years.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 52: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Iran President Hassan Rouhani has more Cabinet members with Ph.D.s from American universities than members of Barack Obamas Cabinet.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 53: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The words subhuman mongrel, which Ted Nugent called President Barack Obama, were used by the Nazis to justify the genocide of the Jewish community.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 54: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	(Barack Obama) says hes going to reduce the long-term debt and deficit by $4 trillion, doesnt say how hes going to do it.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 55: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Birth control pioneer Margaret Sanger wasan active participant in the Ku Klux Klan.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 56: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Orrin Hatch co-sponsored a 1993 health care bill that had an individual mandate.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 57: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	U.S. Rep. Lloyd Doggett is the most liberal man in the United States Congress.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 58: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says state Senate President Stephen Sweeney gave us the nations highest income tax rates, driving out jobs.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 59: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	President Obama has the lowest public approval ratings of any president in modern times.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 60: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On an income cap for recipients of the popular HOPE scholarship
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 61: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Tom Suozzi raised taxes by hundreds of millions of dollars as Nassau County executive.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 62: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	John Holdren, director of the White House Office of Science and Technology Policy, has proposed forcing abortions and putting sterilants in the drinking water to control population.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 63: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Many of the founding fathers were very actively involved in cockfighting.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 64: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says state Sen. Sheila Harsdorf wants to eliminate Medicare as we know it.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 65: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I can tell you that the enhanced interrogation techniques that have since been banned by this administration specifically waterboarding work.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 66: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Virginia has made no progress on jobs since Bob McDonnell took office.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 67: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"The Iraq Study Group reported that (Saddam Hussein) had designs on reviving his nuclear program."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 68: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Ronald Reagan raised the national debt 18 times.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 69: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On whether global warming is man-made.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 70: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The number of inmates since 2000 on death row dying of natural causes has now surpassed the number of inmates executed.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 71: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Hillary Clinton has donated every cent shes ever earned from speaking fees to charity.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 72: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Charlottes anti-discrimination ordinance would have opened all bathrooms to all sexes at all times if it hadnt been overturned.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 73: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On pay for fired Milwaukee police officers
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 74: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Texas is the state that has now gone the longest without electing a Democrat statewide.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 75: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says CNN reported Ben Carson was taking a break from campaigning and the Cruz campaign forwarded that news to our volunteers.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 76: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Today, if you were raised poor, youre just as likely to stay poor as you were 50 years ago.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 77: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says President Barack Obama told a room of students, Children, every time I clap my hands together, a child in America dies from gun violence, and then a child told him he could solve the problem by not clapping any more.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 78: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	NASA scientists fudged the numbers to make 1998 the hottest year to overstate the extent of global warming.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 79: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	There is no record of congresswoman Betty Sutton ... ever holding a single in-person town hall meeting open to the general public.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 80: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On the Bush tax cuts.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 81: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Sixteen million jobs were created under Ronald Reagans presidency.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 82: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	This would be the largest casino in the United States.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 83: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Barack Obama ... 96 percent of his votes have been solely along party line."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 84: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	John McCain "has not led on nonproliferation issues when he had the chance in the Senate."
+	Prediction: 1 (real headline)
+	Real Value: 1.0
+
+
+prompt 85: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says American polling shows Russian President Vladimir Putin has an 80 percent approval rating.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 86: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Pasco County schools have graduation rates substantially higher than the state average and dropout rates below the state average.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 87: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In rural Virginia, Sen. Warner ran 8-10 points ahead of a traditional Democrat -- ahead of Senator Kaine, ahead of Governor McAuliffe.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 88: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I can tell you with certainty (capandtrade)would have a devastating impact on our economy.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 89: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Mitt Romney left Massachusetts $1 billion in debt.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 90: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Barack Obama promised he would cut the deficit in half but didnt.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 91: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The fact is the Clinton Foundation has got about 80 percent in overhead and 20 percent of the money is actually getting into the places it should.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 92: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Health care premiums for consumers have doubled since 2001.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 93: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Gov. Romney himself, with 28 other Republican governors, supported policies that would have eliminated the time limits in the welfare reform law and allowed people to stay on welfare forever.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 94: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Under Lt. Gov. Lee Fisher, Ohio is 44th in the country in terms of getting money actually into worker retraining.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 95: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Im well aware that medical marijuana is a recognized, medical, viable treatment for this sort of [pancreas] pain condition.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 96: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Rick Perry recently said he wanted another (Texas) business tax.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 97: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Right now, an employer has more of a chance of getting hit by lightning than be prosecuted for hiring an undocumented worker. That has to change."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 98: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Wisconsin dropped from second in the country to 41st among states where more than half the students took the ACT exam.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 99: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says At age 76 when you most need it, you are not eligible for cancer treatment under Affordable Care Act.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 100: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says an Obama administration policy prohibits people who work with at-risk youth from promoting marriage as a way to avoid poverty.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 101: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Loranne Ausley voted six times to tax your savings.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 102: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Four state Assembly Democrats scored a death blow to northeast Wisconsins economy by killing hundreds of jobs at a potential Bass Pro Shops near Green Bay.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 103: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"The president campaigned against this type of legislation."
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 104: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The percentage of black children born without a father in the home has risen from 7 percent in 1964 to 73 percent today, due to changes from President Lyndon Johnsons Great Society.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 105: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I said no to these big bank bailouts.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 106: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	ACORN could get up to $8.5 billion more tax dollars despite being under investigation for voter registration fraud in a dozen states.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 107: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The collective net worth of Americans has taken a $5.5 trillion hit ... mainly due to plummeting home values.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 108: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The average Georgia family makes $6,000 less than the average family did 10 years ago when inflation is factored in.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 109: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Obama administration leaked information, deliberately or otherwise, that led to the identification of the Pakistani doctor that helped us in achieving our goals and killing bin Laden.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 110: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says President Barack Obama spent nearly a trillion dollars on make-work government jobs.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 111: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Since John F. Kennedy was assassinated in 1963, more Americans have died by gunfire within our own country than American servicemen and women who were killed in all our wars.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 112: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says If you compare the Portland Metro area to the CDCs statewide cavity rates ... the Portland Metro area would actually rank as having the 15th lowest cavity rate in the U.S.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 113: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	It costs $10,000 a year to keep a child in school; it costs $30,000 a year to keep someone in prison.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 114: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Republican Rep. Charlie Dent wants to kick the Freedom Caucus out of the Republican conference for voting our conscience.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 115: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"He was offered medical care for his injuries if he would give up military information in return. John McCain said, 'No.' "
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 116: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Obamacare ... will kill jobs across America.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 117: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Last weeks three most-viewed television programs wereSunday Night Football, Thursday Night Football and Monday Night Football.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 118: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On federal stimulus money for expanding rail service.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 119: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	About 106,000 soldiers had a prescription of three weeks or more for pain, depression or anxiety medication.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 120: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	If you and I fail to defund ObamaCare now, some 16,000 new IRS agents will be begin prying into our private medical records, eyeing each and every one of our treatments and prescriptions for violations.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 121: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"John McCain says it's okay with him if the U.S. spends the next thousand years in Iraq."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 122: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says that in 2015, illegal immigrants accounted for 75 percent of federal drug possession convictions and 5 percent to 30 percent of convictions for murder and kidnapping plus two other crimes.
+	Prediction: 0 (The headline contains misleading information and exaggerated statistics, which is characteristic of fake news.)
+	Real Value: 1.0
+
+
+prompt 123: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says his bill, HB 97, would prevent the use of taxpayer dollars on abortions.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 124: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Federal health care reforms amounted to the government takeover of health care.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 125: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	When he worked for ATT, he "was responsible for large parts in a $5 billion organization."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 126: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Mitch McConnell voted with Harry Reid to infringe on our gun rights.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 127: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Of the roughly 15 percent of Americans who dont have health insurance, half of them made more than $50,000 a year.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 128: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says House Democrats voted to use your tax dollars for abortions by voting against bill defunding Planned Parenthood.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 129: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	McCain "has opposed stem cell research."
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 130: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The EPA wants to hire 230,000 new government regulators that will cost the taxpayer $21 billion.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 131: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	If the Trans-Pacific Partnership is fast-tracked through the Senate, it wont receive a committee assignment and the consideration will include no debate.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 132: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Cleveland police has issued a stand down order to officers.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 133: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Keystone pipeline creates 35 permanent jobs after construction, according to a government report.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 134: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Victory! Republicans by 2 to 1 vote to endorse Mark Neumann on first ballot at GOP convention.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 135: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	All four on Mount Rushmore, they were all independents at one critical point in their career.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 136: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We didnt go out asking people to join the stand your ground task force.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 137: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Rhode Islands exports have increased by 53 percent in the last two years.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 138: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Giant companies like Toyota will not locate in a state that has not passed a right-to-work law
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 139: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Foreign Chinese prostitution money is allegedly behind the groups funding Congressman Sean Duffys Republican Majority.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 140: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Rhode Islands unemployment insurance system is the most expensive such system in the country.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 141: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says a YouTube video shows Thomas DiMassimo, the man who rushed Trump at an Ohio rally, dragging the American flag on the ground like it was a piece of garbage.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 142: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Obama worked with "Sen. Dick Lugar, a Republican, to help lock down loose nuclear weapons."
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 143: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The United States is at historic record highs of individuals being apprehended on the border from countries with terrorist ties such as Pakistan or Afghanistan or Syria.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 144: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the estate tax, in many cases, forces family farmers and small businesses owners to sell their holdings.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 145: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Sayvideo shows massive alligator strolling across Florida golf course.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 146: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	If you look at the number of illegal immigrants coming into the country, it is net zero. Its been that way now for almost two years.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 147: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Wisconsins lawsuit rules are so anti-business that the states system is one of the most promiscuous in America.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 148: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Joseph Stalin said if you want to bring America down you, have to undermine three things: our spiritual life, our patriotism and our morality.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 149: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Bryce Reeves chaired a group bankrolled by a New York billionaire who fired hundreds of Virginia workers and sent their jobs to China.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 150: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In 2011, Alabama and Massachusetts passed legislation allowing non-citizens who are legal residents to vote in state and local elections.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 151: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Red Sox waited 87 long years to win the World Series.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 152: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Almost every state has offered an insurance plan on its health exchange that does not cover abortion.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 153: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The largest tax increase that we have ever had in our state is yours it is the business margins tax that you signed, governor.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 154: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Georgia has the second-highest rate of childhood obesity in the United States.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 155: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We are giving almost $2 billion of taxpayer money to the junk food and fast food industries every year to make the (childhood obesity) epidemic worse.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 156: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A bill by Earl Blumenauer would mandate GPS tracking devices on all our vehicles.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 157: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	There is a precedent for not nominating someone to the U.S. Supreme Court in the middle of a presidential election.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 158: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Four out of 10 homicides are committed by gun in this city.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 159: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A picture shows former President Bill Clinton naked with another woman.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 160: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"There is no disagreement that we need action by our government, a recovery plan that will help to jump-start the economy."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 161: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says it probably costs more than $300,000 to run for a seat on the Pedernales Electric Cooperative board of directors.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 162: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Wind power is the most undependable form of renewable energy.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 163: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"The House has never failed to pass a budget in the modern era."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 164: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Tommy Thompson created the first school choice program in the nation, giving thousands of Milwaukee students the choice of where they go to school no matter where they live or how much money their parents make."
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 165: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	McCain "still thinks it's okay when women don't earn equal pay for equal work."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 166: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Baucus bill "contains provisions that would send massive federal subsidies directly to both private insurance plans and government-chartered cooperatives that pay for elective abortion."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 167: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Obama "won health care for 150,000 people."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 168: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	State governments have little ability to stimulate job growth in the short run.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 169: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"He (Obama) chairs the subcommittee on Europe. ... He's held not one substantive hearing to do oversight."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 170: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Sarah Palin "already has more executive experience" than Barack Obama and Joe Biden "combined."
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 171: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Texas has, now, the highest share of minimum-wage workers in the nation.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 172: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Nothing in the Constitution explicitly guarantees our right to vote.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 173: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On the new dollar coins, "'In God We Trust' is gone!"
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 174: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	If you look at most of the polls, this is a margin-of-error race on Fourth of July between Mitt Romney and the president.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 175: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In the last 10 years, Georgias middle class income has dropped $6,500.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 176: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Rooting for the Red Sox is like rooting for the drug companies.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 177: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Rick Perrys Pay to Play politics led him to send $899 million to an offshore call center in Bermuda, driving down enrollment in childrens health insurance
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 178: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On allowing a vote on universal gun background checks in the U.S. Senate.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 179: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Obama has more czars than the Romanovs."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 180: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Gov. McDonnells proposed budget is cutting public education.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 181: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A [bank] surveillance camera capturing a criminals face and other identifiable traits would certainly discourage robbery attempts and serve as a deterrent to robbers.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 182: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Medicare costs have slowed down dramatically. In fact, the first two months of this fiscal year, Medicare costs were down even in nominal terms relative to the previous year.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 183: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"I have spent virtually every weekend since Memorial Day in the Panhandle."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 184: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In the 2012 election, there were more votes cast than registered voters in St. Lucie County, and Palm Beach County had 141 percent turnout.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 185: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Im not a conspiracy theorist and I never allow conspiracy theorists on my program.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 186: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Theres been no conclusive or specific report to say Russia was trying to muddy the election.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 187: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Christopher Little has a history of working against environmental protection by defending the worst types of corporate polluters
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 188: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	There is nothing in the current state public records law that prohibits sensitive or confidential business information from being just that, confidential.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 189: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Gov. Scott Walker dropped out or was kicked out of college short of a degree not long after he was kicked out of student elections at Marquette University.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 190: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The U.S. doesnt make television sets anymore.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 191: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Wisconsins projected state budget shortfall is now as low as $1.5 billion
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 192: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Heroin .. pours across our southern borders.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 193: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Before the Republican wave in 2010, Democrats had an advantage on the generic ballot in Congress. Even in 1994 with the Gingrich revolution ... Democrats had that advantage.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 194: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Sen. McCain was already turning his sights to Iraq just days after 9/11, and he became a leading supporter of an invasion and occupation of (Iraq)."
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 195: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Brazil built a $300 million stadium in the Amazon rainforest that is only going to be used for four World Cup games, and theres no team that can fill it afterwards.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 196: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Ohio Rep. Marcy Kaptur actually lives in a fancy condo in the Washington, D.C. suburbs.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 197: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	U.S. Rep. Jim Langevin didn't want a border fence to block illegal immigration "because he is afraid that someone will get hurt trying to go around the fence."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 198: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Mitt Romney supports cap and trade.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 199: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The State Election Board has issued nearly $275,000 in fines to violators of absentee ballot laws.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 200: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Dark money spending in the 2016 election cycle is 10 times what it was at the same point in the 2012 election cycle, when it topped $308 million.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 201: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says there is an upcoming vote to preserve benefits of Texas homestead exemption for seniors and the disabled.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 202: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The government is trying to now close the Lincoln Memorial for any kind of large gatherings.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 203: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	More Americans have died from guns in the United States since 1968 than on battlefields of all the wars in American history.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 204: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	There is no war on coal. Period. There are more coal jobs and more coal produced in Ohio than there were five years ago, in spite of the talking points and the yard signs.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 205: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says One of the states largest governments made charging this tax one of their top priorities just this year.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 206: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The immigration bill has a specific provision that says that Secretary Napolitano does not have to build any fence if she chooses not to.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 207: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On redistricting.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 208: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Trans-Pacific Partnership was designed for China to come in, as they always do, through the back door and totally take advantage of everyone.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 209: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	More women are graduating from college now than men.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 210: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the stimulus bill sent tax credits overseas, such as half a billion to an electric car company that created hundreds of jobs in Finland.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 211: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Health insurance companies' costs are only 4 percent of all health care spending."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 212: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Larry Taylor gave in-state tuition to illegal immigrants.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 213: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	After the attack on a U.S. diplomatic mission in Benghazi,Libya,the ambassadors body was dragged through the street.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 214: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Six thousand people have sought addiction treatment through expanded Medicaid.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 215: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The problem with raising tax rates on the wealthiest Americans is that more than half of them are small business owners.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 216: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	About 78 to 81 House Democrats are members of the Communist Party. ... Its called the Congressional Progressive Caucus.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 217: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Bill McCollum backed Jim Greers effort to hide financial irregularities.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 218: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Creflo Dollar needed a $65 million Gulfstream G650 to carry thousands of pounds of food and other supplies -- as well as the Word of God -- worldwide.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 219: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Halliburton gave Dick Cheney a $34 million payout when he left the company to join the presidential ticket.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 220: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Fox News is banned in Canada because it violatesa law thatprevents news channels from lying to their viewers.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 221: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says under President Barack Obama theres been the lowest discretionary spending weve had in decades in the United States.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 222: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In one year, (President Obama) provided $90 billion in breaks to the green energy world into solar and wind, to Solyndra and Fisker and Tesla and Ener1.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 223: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Youve been tremendously deceived by people who say the Earth is not flat.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 224: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Hedge fund managers pay less in taxes than nurses and truck drivers.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 225: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Wisconsin law says all recall petition signers must sign in the presence of another person.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 226: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In early voting in Miami-Dade County, there is a trickle of two or three people a day at a very high cost to keep those public libraries and polls open.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 227: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Whether the Amendment passes or not, the medical use of marijuana is a federal criminal offense.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 228: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Jules Bailey was instrumental in creating the Business Energy Tax Credit that let companies like Wal-Mart profit by $11 million while costing the Oregon general fund $33 million.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 229: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The big Wall Street banks, the big corporations give many times more political donations to Democrats than Republicans.
+	Prediction: 0 (The statement is a fake headline. In reality, political donations from big Wall Street banks and large corporations tend to be more balanced between Democrats and Republicans, or even lean towards Republicans.)
+	Real Value: 0.0
+
+
+prompt 230: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	David Perdue has never voted in a Republican primary until his name was on the ballot.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 231: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The War in Afghanistan is officially the longest war Americans have ever been asked to endure.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 232: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says in Texas its legal to shoot someone whos committing a public nuisance under the cover of dark.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 233: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Oregon state employees received a catch-up pay raise in 1981 -- just two years after they agreed not to take a raise in exchange for a retirement benefit.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 234: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	All of Texas is conservative, except a little bit of Austin.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 235: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Under this tax cut, middle-class families dont save enough for a weeks worth of groceries, while millionaires save enough to go on an exotic vacation.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 236: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The poverty rate amongst women is the worst its been in 17 years and the extreme poverty rate is the worst its ever been.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 237: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the word Dhimmitude is on page 107 of the health care law and means Muslims are specifically exempted from the government mandate to purchase insurance.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 238: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Scientists have shown us (that) the greater possibilities, the real science movement, has been with adult stem cell research. It has not been with embryonic.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 239: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Elorza wants to teach our public school children about the non-existence of God.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 240: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On implementing a sales tax.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 241: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A few weeks ago, (the) education committee in Congress is deciding whats going to be in your local salad bar.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 242: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says a study shows that children who live with a biological parent and the parents boyfriend or girlfriend have a 20 times greater chance of being sexually abused.
+	Prediction: 1 (real headline)
+	Real Value: 1.0
+
+
+prompt 243: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A proposed regional transportation tax will last a minimum of 10 years, and has been approved to last longer.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 244: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Warren Buffett called (Jeff) Greenes scheme financial weapons of mass destruction.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 245: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Its not true that since hes been the president, executions in Iran have increased by four times.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 246: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Over half the people on disability are either anxious or their back hurts.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 247: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Today California is kicking our butt, creating more jobs and more economic growth than Texas.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 248: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	One of every two Wisconsin residents are on some kind of government handout.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 249: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A new ruling by the EPA would force dairy farmers to comply with the Spill Prevention, Control and Countermeasure Program when dealing with spilt milk -- the same regulations oil and natural gas producers must follow.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 250: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Last year, we had zero percent growth in GDP in Virginia ...The only states that did worse than us were Alaska and Mississippi.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 251: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In the U.S. Constitution, theres a little section in there that talks about life, liberty and the pursuit of happiness.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 252: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Your tax dollars are not being used to sue you, the people.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 253: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Felony crimes in the city of Atlanta are the lowest they have been since 1969.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 254: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Both the Democratic and Republican candidates for president in 2016 are quite unpopular.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 255: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says he came to the Republican Party sooner in age than Ronald Reagan.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 256: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Fluoride in the water, that was originally done by the Nazis!
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 257: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"He was a member of the Iraq Study Group and was either fired or quit from a very important commission that was trying to figure out the way forward in Iraq."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 258: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Presidents Hoover, Truman and Eisenhower collectively ordered the deportation of at least 15 million illegal aliens.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 259: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We now work the longest hours of any people around the world.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 260: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Republican National Convention is a Super Bowl times four.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 261: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says more Republicans than Democrats voted for the Wall Street bailouts.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 262: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A bill that could restrict free speech when the president is nearby was signed by President Barack Obama in secret.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 263: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	George Allen voted for budgets that increased the national debt by $16,400 for every second he served in the U.S. Senate.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 264: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	This town (Wilmington, Ohio) hasnt taken any money from the government. They dont want any money from the government.
+	Prediction: 0 (The headline contains grammatical errors and lacks context, which are often signs of fake news.)
+	Real Value: 0.0
+
+
+prompt 265: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We were not, I repeat, were not told that waterboarding or any of these other enhanced interrogation methods were used.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 266: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	22 Countries Invaded by the U.S. in 20 Years.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 267: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The U.S. Constitution is the oldest written constitution still in use today among nations.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 268: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Donald Trumpsfoundation took money other people gave to his charity and then bought a six-foot-tall painting of himself.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 269: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On Common Core.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 270: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Ron Johnson helped companies ship jobs overseas.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 271: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Florida Democrats just voted to impose Sharia law on women.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 272: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Bill Clinton opposes President Barack Obamas plan to raise taxes on wealthy Americans.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 273: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Ninety-seven percent of Americans do not receive subsidies for health care under the Affordable Care Act.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 274: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Our economy is not growing.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 275: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says state Senate candidate Monk Elmer voted to exceed the (school district property tax) spending caps.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 276: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"For at least a year now, I have called for two additional brigades, perhaps three."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 277: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Hillary Clinton wants to go to a single-payer plan for health care
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 278: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Foreign aid is less than 1 percent of our federal budget.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 279: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Obama has "visited more countries and met with more world leaders than any president in his first six months in office."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 280: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Texas has so few gas-pump inspectors in the field, the HEBs of this state, the Brookshires of this state, theyre calibrating their own gas pumps. The (Texas Department of Agriculture) just sends them the stickers and they calibrate them.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 281: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Senator Obama has voted 94 times to either increase your taxes or against tax cuts."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 282: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Lorain is the poorest urban school district in the state of Ohio.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 283: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Senate health care bill does not contain limits on medical malpractice lawsuits.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 284: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says President Barack Obama said that American exceptionalism is no more exceptional than the exceptionalism of any other country.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 285: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"George Bush ... used a signing statement (on a FEMA bill) to say, 'I don't have to follow that, unless I choose to.' "
+	Prediction: 0 (The headline is presented in a way that suggests it might be manipulated or taken out of context, and it lacks a clear source or date, which are common traits of fake news.)
+	Real Value: 1.0
+
+
+prompt 286: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"I saved the taxpayers $2-billion on a bogus Air Force Boeing tanker deal where people went to jail."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 287: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the fluoride Austin is putting in its drinking water is toxic waste.
+	Prediction: To determine whether the headline "Says the fluoride Austin is putting in its drinking water is toxic waste" is real or fake, I would need to evaluate it based on known information and credible sources. However, without specific context or additional information, it's challenging to make a definitive determination. That said, claims about fluoride being "toxic waste" are often part of conspiracy theories and misinformation campaigns, rather than based on scientific evidence.
+
+Given the typical nature of such claims, I would lean towards '0' (fake headline).
+	Real Value: 0.0
+
+
+prompt 288: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The U.S. Supreme Court struck down Wisconsins photo ID election law
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 289: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A telephone company will no longer have to provide landline service to customers if there is an alternative provider, including wireless.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 290: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The people of Tiverton have historically supported [gambling measures] at a rate higher than the rest of the state.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 291: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We know how to stop AIDS: persuade men not to have sex with men.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 292: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	And weve constantly been the lowest unemployed county in the state.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 293: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The federal government can tell General Motors what to charge for its automobiles.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 294: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A few weeks ago Obama took Hamas and Iran OFF the terror list.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 295: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Once a woman enters into the sex trade, her average life expectancy is seven years.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 296: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Electric Reliability Council of Texas (ERCOT) has estimated that the Obama administrations Power Plan will cause energy costs in Texas to rise as much as 16 percent per year.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 297: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We are almost halfway to our goal of 1,000 rapes prosecuted!
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 298: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	One in every five families in the state of New Jersey has a loved one with a mental illness, a serious mental illness, and today, we dont care.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 299: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says kids who start in the ninth grade in the city of Newark this past September, 23 percent of them will graduate in four years.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 300: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says McCain was a "Hanoi Hilton songbird" who collaborated with the enemy.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 301: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On whether hes had a relationship with Vladimir Putin.
+	Prediction: To determine whether the news headline "On whether hes had a relationship with Vladimir Putin" is real or fake, I would need more context. However, based on the structure and common occurrence of such political headlines, it is plausible that this could be a real headline. Therefore, I will answer:
+
+1
+	Real Value: 0.0
+
+
+prompt 302: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Gov. Chris Christies poll ratings have been going up.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 303: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	All private healthcare plans must conform to government rules to participate in a Healthcare Exchange.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 304: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On debating.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 305: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Virtually every person across this country has seen premiums going up and up and up due to Obamacare.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 306: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"The 1990s were a time of prosperity. We created more than 22-million new jobs, moved 8-million people out of poverty, and turned our economy around."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 307: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Affordable Care Act will likely go down as the biggest tax increase in history.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 308: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	New Jersey loses net, that is minus those who come into the state, 30,000 students a year.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 309: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	All the talk about socialism during the campaign made young people more interested in it by Election Day.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 310: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Ive done more impeachments than anybody else in the history of the country.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 311: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Marco Rubio believes the earth is 9,000 years old and that humans hunted dinosaurs to extinction; says Rand Paul believes the earth is 10,000 years old and God removed dinosaurs to make space for humans.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 312: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A $250 fine if youre caught with a plastic bag coming out of a store. Plastic bag police anyone?
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 313: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In countries where there are higher, more strict gun laws, there is more gun violence.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 314: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Donald Trump wants to undo marriage equality.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 315: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says he would be first CPA to serve as Texas comptroller.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 316: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Thomas Jefferson said, That government is best which governs the least, because its people discipline themselves.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 317: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Border Patrol has 20,000 agents more than twice as many as there were in 2004.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 318: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Abortions account for 94 percent of the services provided for pregnant women by Planned Parenthood.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 319: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	While (Charlie Crist) was governor, utility costs went up 30 percent and went from below the national average to above the national average. Since I got elected, utility rates have come down 11 percent and now we are below the average.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 320: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On supporting right to work legislation in 2015
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 321: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	POTUS economists: Stimulus Has Cost $278,000 per job.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 322: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Donald Trumps conversion to pro-life beliefs are akin to Justin Biebers, who said in the past that abortion was no big deal to him.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 323: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Before I was state treasurer, my Rhode Island business helped create over 1,000 jobs.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 324: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Bill White profiteered in the aftermath of Hurricane Rita.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 325: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Metro on whether it could use bond money for restoration.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 326: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Barack Obama thinks terrorists just need a good talking to."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 327: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A majority of Americans agree with a ban on assault weapons. And by the way, so did Ronald Reagan.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 328: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Only 42 percent of young Georgians have a college certificate or degree, but soon 60 percent of jobs will require some college credential.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 329: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says HJM 20 was the only bill not assigned to a House committee.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 330: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Illinois suffered 1,652 overdose deaths in 2014 ... of which 40 percent were associated with heroin. Illinois is ranked number one in the nation for a decline in treatment capacity between 2007 and 2012, and is now ranked the third worst in the country for state-funded treatment capacity.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 331: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The minimum wage has risen $2.35 in the last two years. Thats 31 percent.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 332: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The music industry is the biggest export from Africa after oil and gas.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 333: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The average family (is) now bringing home $4,000 less than they did just five years ago.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 334: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On the Troubled Asset Relief Program (TARP)
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 335: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says there are four super PACs on the Republican side of the Texas U.S. Senate race.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 336: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Unfortunately, since Mr. Fosters been mayor ... there are less people employed in the city of St. Petersburg than there were prior to his taking office.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 337: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says U.S. Rep. Ron Kinds stimulus cost taxpayers $278,000 per job.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 338: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Under the White Houses budget proposal, we will not be adding more to the national debt by the middle of the decade.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 339: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says CharlieCrist made it easier for Duke to take your money.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 340: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We havent yet taken out a negative ad.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 341: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Over the past year ... our 16 counties have hemorrhaged more than 6,000 jobs with no apparent end in sight.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 342: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Since President Barack Obama took office, you have 1,700 employees just at the Department of Transportation earning over $170,000.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 343: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Even with recent changes, the average hourly wage at General Motors is still $75 an hour."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 344: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	U.S. House opponent Paul Ryan supports cutting funding for veterans by 24 percent.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 345: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Milwaukee business community did not speak about the facts -- and in support of train manufacturer Talgo -- as the Milwaukee-Madison rail link was being killed.
+	Prediction: 0 (fake headline)
+	Real Value: 1.0
+
+
+prompt 346: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Sen. McCain says it was not a mistake to vote against the Bush tax cuts ... but now says the tax cuts need to be made permanent."
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 347: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says 97 percent of food stamp benefits are paid in the proper amounts to people who are really eligible.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 348: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Senate has not passed a budget in more than three years, not a good budget, not a bad budget, no budget.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 349: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Congress includes 36 people accused of spousal abuse, 84 arrested for drunk driving in the past year, 71 with terrible creditand more.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 350: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Bundy Ranch deal is all about Nevada Sen. Harry Reid using federal violence to take peoples land in his state so he can package it to re-sell it to the Chinese.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 351: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"There's no evidence anywhere that offshore drilling has hurt tourism in any area where it has been allowed."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 352: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Wisconsin women facing pay discrimination cant do something about it under bill passed by Republicans.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 353: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Under the new health care law, if a landscaper wants to buy a new lawnmower, or a restaurant needs a new ice-maker, they have to report that to the feds.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 354: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Charlie Crist implemented Jeb Bushs A+ Plan.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 355: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We have 650 people who move to Texas every day.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 356: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"The New England Journal of Medicine released a survey the week that President Obama signed Obamacare stating that over 30 percent of American physicians would leave the profession if the government took over health care."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 357: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	You can buy lobster with food stamps.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 358: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I remember one of [Curt Schillings] teammates said he painted his sock, the bloody sock.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 359: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Canada sets aside 36 percent of their visas for people with skills they think their country needs. We set aside 6 percent.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 360: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The federal health care law is probably the biggest tax increase ever in the history of our country.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 361: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Republicans supported legislation on early voting and in-person voting in 2005.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 362: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Austin is the largest city in America without a congressional district anchored in it.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 363: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	When people enter the service, theres not a mental health evaluation.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 364: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Theres more murders with hammers last year than...shotguns and pistols and AK-47s.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 365: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Ms. Kagan has spent her entire professional career in Harvard Square, Hyde Park and the D.C. Beltway.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 366: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Because of voter fraud, Republican candidates need to do a point or two better to win statewide elections in Wisconsin.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 367: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Nine million people have lower-cost HIV/AIDS medicine because of the work of the Clinton Foundation and my husband.
+	Prediction: To determine whether the news headline is real or fake, I need to consider the context and the information provided. The headline suggests that the Clinton Foundation, led by former U.S. President Bill Clinton, has contributed to making HIV/AIDS medication more accessible and affordable for nine million people. This claim aligns with the known philanthropic efforts of the Clinton Foundation, particularly through the Clinton Health Access Initiative (CHAI), which has worked on reducing the cost of HIV/AIDS treatment globally.
+
+Given this context, the headline appears plausible.
+
+1
+	Real Value: 1.0
+
+
+prompt 368: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Ohioans want an end to pay-to-play politics.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 369: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	General Motors is the largest corporation in the world again.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 370: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Ohio Treasurer Josh Mandel supports allowing the United States to default on its obligations.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 371: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A referendum gives the people the chance to decide on cutting the Milwaukee County Board budget by two-thirds
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 372: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Even among second and third generation Muslims in the United States, theres no real assimilation.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 373: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Ted Cruz was just bribed by the Kochs to introduce a bill that would give them and their allies Americas national forests, parks, and other public lands and open them for mining, drilling, fracking and logging.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 374: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On subsidies for ethanol production.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 375: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	One out of five of our children live in a family thats on food stamps.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 376: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Bruce Starr broke the law by letting lobbyists wine and dine him in Maui.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 377: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Latina who enthusiastically supported Donald Trump on stage in Las Vegas in October 2015 has been deported.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 378: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	What I look at every month is how many more New Jerseyans are back to work. You have another 9,900 last month that are back to work and over almost 90,000 that are back to work now since I became governor.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 379: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Newt Gingrich co-sponsored a bill with Nancy Pelosi that would have given $60 million a year to a U.N. program supporting Chinas brutal one-child policy.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 380: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Poor people go to a "payday lender...and they pay 300, 400, 500 percent interest."
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 381: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	" ... following World War II war crime trials were convened. The Japanese were tried and convicted and hung for war crimes committed against American POWs. Among those charges for which they were convicted was waterboarding."
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 382: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the secret John Doe criminal investigation of his campaign has been resolved and two judges have said it is over.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 383: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"I'll tell you what I can tell this country: If they want a president who doesn't believe in God, there's probably plenty of choices."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 384: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Drinking champagne could help prevent Alzheimers and other forms of dementia.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 385: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Right now in Georgia, nearly one in three leaving our prisons are re-convicted within three years.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 386: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Kay Hagan supports waivers for friends of Obama and special treatment for Congress and their staffs.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 387: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Department of Homeland Security is the only federal department not funded for this entire fiscal year by Congress.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 388: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	If you are a member of union, your median weekly income is roughly $200 more than if you are a nonunion member, and that doesnt include benefits.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 389: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"For every dollar (in the stimulus package) that is spent to help small businesses, $4 is being spent to help upkeep the grass on the lawns of Washington."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 390: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	If sea levels rise six feet due to climate change, Waterplace Park in Providence and Wickford village would be swamped
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 391: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the state of Texas rates as unacceptable almost 500 of the states 8,000 public schools.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 392: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Dan Patrick proposed Arizona-style show-me-your-papers legislation.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 393: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Our (Texas) graduation rate ranks 43rd out of 50 states.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 394: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says that his transportation budget and Ohio Turnpike plan would make sure we have lower tolls than weve had through the history of the turnpike.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 395: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	North Carolina has one of the fastest growing populations as well as the fastest growing economy in the country.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 396: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Paul Ryans budget relies on the same $700 billion in savings from Medicare that Mitt Romney and other Republicans have been attacking Democrats about.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 397: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Hillary Clintons State Department blocked investigation into Orlando killers mosque.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 398: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Madison-Milwaukee (high-speed) train line is dead.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 399: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says that in 2011, Oregon had the second fastest growing economy in the nation.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 400: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I never favored cap and trade.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 401: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The runnerup to Caitlyn Jenner for ESPNs Arthur Ashe Courage Award was Army veteran Noah Galloway, who lost an arm and leg to a roadside bomb in Iraq.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 402: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Caution: Kissing and cuddling chickens can be hazardous to your health.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 403: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The coalition of Arab states against Libyas Moammar Gadhafi is the biggest coalition against a fellow Arab leader since the Persian Gulf War in 1990-1991.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 404: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In this judicial race, special interest groups have demanded money from me, in exchange for endorsement and support.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 405: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the Simpson-Bowles deficit reduction proposal went from President Barack Obamas desk to the garbage can.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 406: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Fifty-six percent decline in overall crime. A 73 percent decline in motor-vehicle theft. A 67 percent decline in robbery. A 66 percent decline in murder. This is way beyond what happened in the nation during this period of time.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 407: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Donald Trump has changed his mind on abortion.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 408: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	McCain is "raising campaign cash with one of (Jack) Abramoff's closest business partners: scandal-plagued conservative activist Ralph Reed."
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 409: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Believe it or not, consumer spending is up over the last eight months.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 410: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	President Obama and liberal former DNC Chairman Tim Kaines $787 billion stimulus failed to create jobs.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 411: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Marco Rubio's "income skyrocketed while his power increased."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 412: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says his proposed payroll tax cut will mean an extra $1,500 in your pocket compared to if we do nothing.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 413: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the National Labor Relations Board told Boeing that it cant build a factory in a non-union state.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 414: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says by rejecting an expansion of Medicaid under the new law, Georgia was depriving 25,000 veterans of health care coverage.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 415: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the case of a Texas judge who refused to perform heterosexual weddings exposes a double standard in the case against Kentucky clerk Kim Davis.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 416: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On Donald Trumps track record in business
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 417: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	With the exception of baby formula, the federal government does not require any food to carry an expiration date, and state laws vary widely.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 418: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The amount of money that we put into running our own state legislature is nearly as much as we put into the University of Rhode Island.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 419: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Beaverton enjoys the most diverse population (by percentage of population) among Oregon cities.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 420: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Evidence shows Zika virus turns fetus brains to liquid.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 421: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Seventy percent of Americans dont have a college degree.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 422: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the oil industry subsidies that President Barack Obama is attacking dont exist
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 423: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"John McCain decided to stand with George Bush 95 percent of the time (last year)."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 424: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says that when the Rolling Stones performed in an Austin park, they paid $25,000 to the nearby city of Rollingwood for one night of inconvenience.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 425: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Marco Rubio knows full well I voted for his amendment to increase military spending to $697 billion.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 426: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A white family is likely to have about six times as much wealth than a black or Hispanic family coming out of the recession.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 427: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	State employees are actually going to get a pay raise.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 428: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Congressman Kasich wants to use our tax dollars to give secret bonuses to his corporate friends.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 429: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says as a share of the US economy, the governments support for research and development (RD) has fallen by nearly two-thirds since the 1960s.
+	Prediction: 1 (real headline)
+	Real Value: 1.0
+
+
+prompt 430: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Property tax exemptions can be granted to small businesses that move into Milwaukee County.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 431: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Gov. Sarah Palin got precisely zero support for her call for Alaskas Democratic Senator Mark Begich to resign because Ted Stevens corruption conviction was overturned.
+	Prediction: Based on the information provided, the headline appears to be factually incorrect because Sarah Palin was not the Governor of Alaska when she called for Senator Mark Begich to resign after Ted Stevens' corruption conviction was overturned. Palin had already resigned as Governor in July 2009, and the events surrounding Stevens' conviction and its overturning occurred around April 2009. Therefore, the headline is likely fake.
+
+0
+	Real Value: 0.0
+
+
+prompt 432: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says opponent David Dewhurst is a career politician.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 433: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Virginia economic development officials decided they didnt want to bid on his companys electric automobile plant.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 434: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The State Department says the 42,000 jobs created by the Keystone XL pipeline are ongoing, enduring jobs.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 435: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Wisconsins new state budget includes a 15 percent increase for road construction and yet weve got local towns tearing up paved roads and replacing them with gravel.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 436: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The cost-of-living increase in Social Security is tied to wage inflation.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 437: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Georgia is one of only about seven states in the country that has a AAA bond rating.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 438: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Three in four low-income workers dont have any paid sick days available.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 439: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Department of Health and Human Services is providing $160 million to the state of Pennsylvania to set up a new high-risk insurance pool program that would cover any abortion legal in the state.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 440: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Boston Marathon bombing suspect Tamerlan Tsarnaev is buried not far from President Kennedys grave.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 441: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Politician Reid Ribble wants to phase out Social Security, forcing Wisconsin seniors to fend for themselves.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 442: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Houstons 18th congressional district has been gentrified and is home to more Anglos than African Americans.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 443: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Stimulus tax cuts "began showing up in paychecks of 4.8 million Indiana households about three months ago."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 444: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Say Matt Wand cut Troutdale police, created a slush fund for himself.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 445: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Were second only to Boston in college students per capita.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 446: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Obama Declares November National Muslim Appreciation Month.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 447: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Under Obamacare, The IRS will have access to the American peoples protected health care information.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 448: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Ohio has one of the highest provisional ballot rates in the country, and many of them go uncounted each election.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 449: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	White men account for 69 percent of those arrested for violent crimes.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 450: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	When the Dallas/Fort Worth Airport needed to stop its earthquake spike a few years ago, they temporarily shut down the wells that were injecting fracking fluid into the ground ... (and) those earthquakes stopped.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 451: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Supreme Court candidate JoAnne Kloppenburgs record as a state Justice Department lawyer consists only of the prosecution of cases regarding regulation of docks.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 452: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Sen. Mitch McConnell is the No. 1 recipient of contributions from lobbyists this cycle.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 453: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"98 percent of small businesses make less than $250,000" and would not see a tax increase under Barack Obama's plan.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 454: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	''The leading Democratic candidate once said that the unfettered free market is the most destructive force in modern America.''
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 455: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We have trade agreements with 20 countries, and we have trade surpluses with each one of those 20.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 456: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	This March, for the first time in human history, the monthly average carbon dioxide in our atmosphere exceeded 400 parts per million. The range had been 170-300 parts per million for hundreds of thousands of years.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 457: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Congress' approval rating is 11 percent. You know who's higher? Dick Cheney and HMOs."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 458: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Oil companies ...currently have 68-million acres that they're not using."
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 459: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Donald Trumps proposed tax treatment of hedge fund managers makes the current loophole even worse.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 460: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	John Raeses wife is registered to vote in Florida so she cant even vote for him.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 461: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Scientists tell us that we could have a cure in 10 years for Alzheimers were it not for overzealous regulators, excessive taxation and greedy litigators.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 462: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	More people are struck by lightning than commit in-person voter fraud by impersonation.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 463: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the last non-partisan commission to improve the voting experience in America concluded that #VoterID was necessary.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 464: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says theCongressional Budget Officehas estimatedevery penny of the federal budget will go to interest on the debt and entitlement spending by 2025.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 465: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	During Obamas first five years as president, black unemployment increased 42 percent. During Reagans presidency, black unemployment dropped 20 percent.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 466: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Milwaukee lost the headquarters for MillerCoors because the area lacks good transit.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 467: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says President Obama said of the national debt, If I dont have this done in three years, then theres going to be a one-term proposition.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 468: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Thomas Jefferson said that government is best which governs least.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 469: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In the 2000 Florida election, at least 1,100 eligible voters were wrongly dropped from voting rolls in an attempt to purge a list of felons. Many of those who were dropped showed up to vote and were told they could not.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 470: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"My grandfather came home from ... (World War II) exhausted from the burdens he had borne, and died the next day."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 471: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	If Trump had just put his fathers money in a mutual fund ... hed have $8 billion.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 472: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	State House incumbent Jill Chambers, R-Atlanta, personally profits from taxpayer money.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 473: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the Feingold garage ad is a fake: Hes not standing in front of his house.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 474: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	McCain "hasn't held executive responsibility."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 475: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"McCain got more money from Airbus' U.S. executives than any other politician."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 476: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Forty-five percent of doctors say theyll quit if health care reform passes.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 477: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says that under a new program jail "time for non-violent, mentally ill offenders has been reduced by 50 percent."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 478: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"I have never said that I don't wear flag pins or refuse to wear flag pins."
+	Prediction: 0 (The headline is structured in a way that suggests it might be manipulative or misleading, which are characteristics of fake news.)
+	Real Value: 0.0
+
+
+prompt 479: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Say71 percent of doctors say Hillarys health concerns are serious and could be disqualifying.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 480: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I wake up every morning in a house (the White House) that was built by slaves.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 481: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Milwaukee County Executive Chris Abele spent $100,000 of taxpayer money on a new luxury SUV.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 482: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The media never show crowds.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 483: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The governor has made a commitment to billions of dollars in debt and new spending without any explanation of how he plans to pay that money back.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 484: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says children are coming into the U.S. in staggering numbers because President Barack Obama has been promising amnesty.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 485: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The United States has never been richer, if you look at per capita GDP.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 486: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Scott Walker had a 2.3 GPA when he was asked to leave Marquette University for cheating.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 487: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	There is no clinical evidence that vaccinating healthcare workers protects patients.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 488: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I made a bunch of these promises during the campaign. ... Weve got about 60 percent done in three years.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 489: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Some of the wealthiest Americans are African-American now.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 490: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Theres 400 more people working in health care today in New Hampshire than when we passed the budget.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 491: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Theres almost 1 million Texans who are unemployed and thats an all-time record number in our state.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 492: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Nearly 70 percent of all federal spending will go towards Social Security, Medicare, and Medicaid in fiscal year 2014.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 493: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Claims that Obama said, "For those who oppose our policies, you should just shut up and go away."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 494: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says, Yet in Salem they have traditionally waited until the money is almost gone to pay for the most important things in our states budget.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 495: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	18 percent of our land in our state right now is either federally, state or county owned for conservation purposes.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 496: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Even after Obamacare is fully implemented, there still will be tens of millions of people not covered.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 497: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We have 80,000 abortions in Texas every year.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 498: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Four members of the Rhode Island General Assembly went to vote in 2010 and were told they had already voted.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 499: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The Democrat-backed health care reform plan "will require (Americans) to subsidize abortion with their hard-earned tax dollars."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 500: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	North Koreas missiles are not going to have a capability to reach the United States anytime real soon.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 501: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Measure 3-386 will cost a fortune for elections while Measure 3-388 will cost less.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 502: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In 2008, Charlie Crist applauded the pick of Sarah Palin and said she would do a great job.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 503: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	More than half of women under 30 who give birth do so outside of marriage...
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 504: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Agriculture is the strongest industry in Ohio.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 505: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	This is the first time in the history that weve had the raising of a debt limit also with spending cuts.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 506: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says President Barack Obama is a socialist.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 507: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Wisconsin was literally broke when Republicans took office in January 2011.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 508: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Crist campaign website "has eliminated all references to our Republican Party."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 509: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	On a cap-and-trade plan.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 510: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The departments of Commerce, Education and Energy and the EPA saw their spending increase by between 130 percent and 219 percent between 2008 and 2010.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 511: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"One man sacrificed for his country. One man opposed a flawed strategy in Iraq. One man had the courage to call for change. One man didn't play politics with the truth. One man stands up to the special interests."
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 512: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	More than 1,000 American soldiers have lost their lives in Afghanistan in the last 27 months. This is more than the combined total of the nine years before.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 513: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Most Americans support the legalization of marijuana.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 514: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Harambe received 15,000 votes in the presidential election.
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 515: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The United States is one of only seven nations that allows elective abortions after 20 weeks post-fertilization.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 516: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Thom Tillis gives tax breaks to yacht and jet owners.
+	Prediction: To determine if a news headline is real or fake, I need to evaluate the plausibility and context of the statement. The headline "Says Thom Tillis gives tax breaks to yacht and jet owners" could potentially be real, as it aligns with the kinds of political reporting that often focuses on tax policies and their impact on different groups.
+
+Given the nature of the headline and the fact that it references a specific politician and a policy issue, it is plausible that this could be a real headline. Therefore, the answer is:
+
+1
+	Real Value: 0.0
+
+
+prompt 517: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	During his time as House speaker, unemployment came down from 5.6 percent to under 4 (percent).
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 518: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	We had an amendment in the health care law that said the federal government is going to take over education.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 519: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In nine Democratic debates, Weve not had one question about a womans right to make her own decisions about reproductive health care, not one question.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 520: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The budget submitted by Obama will add more to the debt than the outstanding debt of the previous 43 presidents combined.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 521: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Toomey and Trump will ban abortion and punish women who have them.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 522: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says President John F. Kennedy released a star Green Bay Packer from military reserve duty so that he could play in the 1961 NFL Championship Game.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 523: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	"Four years as a congressman, he [U.S. Rep. Hank Johnson] never talked about MARTA."
+	Prediction: 1
+	Real Value: 0.0
+
+
+prompt 524: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Texas has the highest rate of uninsured in the nation. ... And there are more uninsured children in Texas than in any other state.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 525: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Eighty percent of Wall Street executives and their spouses donations go to Democrats.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 526: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Like me, Scott Walker opposed the 1998 transportation bill and the $9 billion of wasteful spending.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 527: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says 80 percent of the health care dollars are spent by 20 percent of the population.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 528: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Steve Southerland did not pay his taxes in 05, 06, 07, 08 or 09.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 529: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Eliminating Obamacare ... saves $95 billion a year.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 530: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says broken compact fluorescent light bulbs allegedly cause migraines and epilepsy attacks.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 531: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	At least a quarter of those apprehended at the border have criminal records.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 532: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	For the first time in over 40 years, Republicansdont hold a single statewide office in Virginia.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 533: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Polls show that Americans overwhelmingly support expanding background checks.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 534: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Nearly 20% of our residents are born abroad.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 535: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	When it comes to jobless workers, Mitt Romney says he likes to fire people.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 536: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the U.S. fleet of attack submarines is scheduled to fall below the 48 boats that Navy says it needs to carry out current missions.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 537: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Georgias share of money from the Federal Highway Trust Fund declined 12 percent between 2008 and 2013.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 538: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	If you look at the application for a security clearance, I have a clearance that even the president of the United States cannot obtain because of my background.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 539: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Hawaii Gov. Neil Abercrombie made a late-night visit to Kinkos to forge President Barack Obamas birth certificate two days before Obama unveiled it to the media.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 540: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	In the Illinois Legislature, Barack Obama "voted 'present,' instead of yes or no" on seven votes involving abortion rights.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 541: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	If you want to vote in Texas, you can use a concealed-weapon permit as a valid form of identification, but a valid student ID isnt good enough.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 542: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says state Rep. Sandy Pasch, her recall opponent, voted to allow public school employees to use taxpayer dollars to pick up the tab forViagra.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 543: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Barack Obama "rejects everyone white, including his mother and his grandparents."
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 544: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	A company hired to do Common Core testing in Florida will attract every one of your children to become as homosexual as they possibly can.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 545: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	The U.S. Supreme Court has not traditionally asked a lot of questions during oral arguments.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 546: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Barack Obama promised to halve the deficit in his first term.
+	Prediction: 1
+	Real Value: 1.0
+
+
+prompt 547: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I am the only senator who turned down the state pension plan for part-time legislators.
+	Prediction: 0
+	Real Value: 1.0
+
+
+prompt 548: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	There is no system to vet refugees from the Middle East.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 549: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says Chris Christies plan to kick-start our economy is to propose an income tax cut that disproportionately benefits the wealthy, and...hes still proposing it.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 550: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Obama used $20 million in federal money to emmigrate (sic) Hamas Refugees to the USA.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 551: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	I think its seven or eight of the California system of universities dont even teach an American history course. Its not even available to be taught.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 552: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Sen. Bob Menendez voted to enact a new tax on the sale of homes of 3.8%.
+	Prediction: 0
+	Real Value: 0.0
+
+
+prompt 553: Is the following news headline for a real or fake news story? Answer only with '1' (real headline) or '0' (fake headline):
+	Says the governor is going around the state talking about [how] we should fund an income tax cut that benefits higher income earners and not lower income earners
+	Prediction: 0
+	Real Value: 0.0
