@@ -67,7 +67,7 @@ col_dict = {
 column_names = ["label", "statement", 'subject', 'speaker', 'speaker_job_title', 'party_affiliation', 'context']
 usecols = [col_dict[key] for key in column_names]
 
-train_df = pd.read_csv("train.tsv", sep="\t", header=None, names=column_names, usecols=usecols, quoting=csv.QUOTE_NONE)
+train_df_og = pd.read_csv("train.tsv", sep="\t", header=None, names=column_names, usecols=usecols, quoting=csv.QUOTE_NONE)
 test_df = pd.read_csv("test.tsv", sep="\t", header=None, names=column_names, usecols=usecols, quoting=csv.QUOTE_NONE)
 
 # create new column with 'class' being either 0/1 based on the label
@@ -84,39 +84,37 @@ def checkDF(df):
     print(f"Count of 0's: {counts.get(0, 0)}")
     print(f"Count of 1's: {counts.get(1, 0)}")
 
-train_df = fixDataFrame(train_df, label_mapping)
+train_df = fixDataFrame(train_df_og, label_mapping)
 test_df = fixDataFrame(test_df, label_mapping)
-
 
 # Print label distribution
 print("Training label dist:")
 print(train_df['label'].value_counts())
 print()
+print(f"Total True Claims: {len(train_df[train_df['label'].isin(true_labels)])}")
+print(f"Total True Claims: {len(train_df[train_df['label'].isin(false_labels)])}")
+
 # Create True and Fake media claims Data Frame
 true_df = train_df[train_df['label'].isin(true_labels)]
-fake_df = train_df[train_df['label'].isin(false_labels)]
-print(f"True Claims Being Used: {len(true_df)}")
-print(f"Fake Articles Being Used: {len(fake_df)}")
-
+false_df = train_df[train_df['label'].isin(false_labels)]
 
 # max possible claims that can be used to train false and true 
 # Balance the training dataset (50/50)
-maxClaims = min(len(fake_df), len(true_df))
+maxClaims = min(len(false_df), len(true_df))
 true_df = true_df.sample(maxClaims, random_state=10)
 false_df = false_df.sample(maxClaims, random_state=10)
 balanced_train_df = pd.concat([true_df, false_df]).sample(frac=1, random_state=42).reset_index(drop=True)
 
 print("\nBalanced training label dist:")
-print(balanced_train_df['class'].value_counts().rename({0: "Fake", 1: "Real"}))
-
+print(balanced_train_df['class'].value_counts())
 
 # Testing Label DataFrame
 
 print("\nTest label dist:")
 print(test_df['label'].value_counts())
-test_true_count = len(test_df[test_df['label'].isin(true_labels)])
-test_fake_count = len(test_df[test_df['label'].isin(false_labels)])
-print(f"\nTest dataset: {test_true_count} true articles, {test_fake_count} fake articles")
+
+print("\nCounts of binary classification (1:true, 0: false)")
+print(test_df['class'].value_counts())
 
 # Preprocessing, create new column 'clean_text'
 def preprocess_text(text):
@@ -129,10 +127,6 @@ def preprocess_text(text):
 
 balanced_train_df['clean_text'] = balanced_train_df['statement'].apply(preprocess_text)
 test_df['clean_text'] = test_df['statement'].apply(preprocess_text)
-
-######
-# Evaluations
-######
 
 # Vectorization
 vectorizer = CountVectorizer(max_features=5000)
@@ -180,16 +174,22 @@ cms = [nb_cm.T, cm_logreg.T, cm_svm.T]
 titles = ['Naive Bayes Confusion Matrix', 'Logistic Regression Confusion Matrix', 'SVM Confusion Matrix']
 cmaps = ['Blues', 'Reds', 'Purples']
 
-# Plot heatmaps
+# loop through heatmaps
 figsize = (6, 5)
 
-for cm, title, cmap in zip(cms, titles, cmaps):
-    plt.figure(figsize=figsize)
+for i, (cm, title, cmap) in enumerate(zip(cms, titles, cmaps)):
+    fig, ax = plt.subplots(figsize=figsize)
     sns.heatmap(cm, annot=True, fmt='d', cmap=cmap,
                 yticklabels=["Predicted Fake", "Predicted Real"],
-                xticklabels=["Actual Fake", "Actual Real"])
-    plt.title(title)
-    plt.gca().xaxis.set_label_position('top') 
-    plt.gca().xaxis.tick_top()
+                xticklabels=["Actual Fake", "Actual Real"],
+                cbar=False, ax=ax)  
+    ax.set_title(title)
+    ax.xaxis.set_label_position('top') 
+    ax.xaxis.tick_top()
+    
     plt.tight_layout()
+    
+    # save plots as images
+    #plt.savefig(f'plot_{i}.png', bbox_inches='tight', dpi=300)
+    
     plt.show()
