@@ -3,7 +3,7 @@
 DATASET: Fake news detection using Liar dataset (https://github.com/tfs4/liar_dataset)
 - two files we used: test.tsv and train.tsv, where you can see our original testing and training data
 
-method_baseine --> folder containing Jupyter notebook (baselines.ipynb) where we preprocessed data and ran Naive Bayes, Logistic Regression, and SVM
+method_baseline --> folder containing Jupyter notebook (baselines.ipynb) where we preprocessed data and ran Naive Bayes, Logistic Regression, and SVM
 
 method_cnn --> folder containing Jupyter notebook (cnn-bagOfWords-colab.ipynb) where we preprocessed for CNN and ran CNN
 
