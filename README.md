@@ -14,20 +14,4 @@ kmeans_clustering.py --> python file in which we ran k-means clustering as an in
 
 bert.py --> python file in which we tried to run bert
 
-naivebayes_baseline.py --> Bag of Words naive bayes approach to classify news as real or fake (we ended up using this same code in baselines.ipynb)
-news marked as true is real, all others (fake, half-true, pants-on-fire) are marked as false
-<details>
-<summary>📋 <strong>Classification Report</strong></summary>
-
-<pre>
-              precision    recall  f1-score   support
-
-           0       0.84      0.95      0.89      1059
-           1       0.27      0.10      0.15       208
-
-    accuracy                           0.81      1267
-   macro avg       0.55      0.52      0.52      1267
-weighted avg       0.75      0.81      0.77      1267
-</pre>
-
-</details>
+naivebayes_baseline.py --> python file with a Bag of Words naive bayes approach to classify news as real or fake (we ended up using this same code in baselines.ipynb)
