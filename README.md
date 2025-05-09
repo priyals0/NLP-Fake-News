@@ -1,17 +1,13 @@
 # NLP-Fake-News
 
-DATASET: Fake news detection using Liar dataset (https://github.com/tfs4/liar_dataset)
-- two files we used: test.tsv and train.tsv, where you can see our original testing and training data
+### Directory Structure, Code, Files, Running Files
 
-method_baseline --> folder containing Jupyter notebook (baselines.ipynb) where we preprocessed data and ran Naive Bayes, Logistic Regression, and SVM
+The directory structure is very simple and easy to follow. Our training and test datasets are in two _.tsv_ files, _train.tsv_ and _test.tsv_. In each of our _.py_ files where we implement our methods, we load and preprocess the datasets, so to run any of the methods, just run that _.py_ file. _kmeans_clustering.py_ contains our K-Means Clustering that we performed as a part of data exploration, _baselines.py_ contains our random and majority class baselines, _BoW.py_ contains our three Bag-of-Words methods (Naive Bayes, Logistic Regression, and SVM), and inside of each of the _method_ folders, a _.ipnyb_ file exists containing the respective method. In _method-mistral_ folder, there are an additional two text files that have Mistral's full output and it's predictions, as well as a json file for our (blank) Mistral key.
 
-method_cnn --> folder containing Jupyter notebook (cnn-bagOfWords-colab.ipynb) where we preprocessed for CNN and ran CNN
+### Dataset
 
-method_mistral --> folder containing python file (mistral.py) where we ran Mistral, plus two text files that have Mistral's full output and it's predictions. Also contains a json for our (blank) Mistral key.
-- in our code, we imported mistral from the mistralai library (https://docs.mistral.ai/getting-started/clients/) 
+Fake news detection using Liar dataset (https://github.com/tfs4/liar_dataset). We used two files: test.tsv and train.tsv, where you can see our original testing and training data.
 
-kmeans_clustering.py --> python file in which we ran k-means clustering as an initial data exploration
+### Non-Standard Libraries
 
-bert.py --> python file in which we tried to run bert
-
-naivebayes_baseline.py --> python file with a Bag of Words naive bayes approach to classify news as real or fake (we ended up using this same code in baselines.ipynb)
+We imported mistral from the mistralai library (https://docs.mistral.ai/getting-started/clients/).
