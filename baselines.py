@@ -1,24 +1,17 @@
-# std libraries
 import csv
 import re
 import ssl
-# data science libraries 
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import seaborn as sns
-# nlp libraries
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import precision_score, recall_score, f1_score
+from sklearn.dummy import DummyClassifier
 import nltk
 from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
-# sklearning ml libraries 
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
-from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.svm import LinearSVC
+from nltk.stem import WordNetLemmatizer
+
 
 # SSL for nltk downloads
 try:
@@ -28,25 +21,18 @@ except AttributeError:
 else:
     ssl._create_default_https_context = _create_unverified_https_context
 
-# Download NLTK resources
 nltk.download('stopwords', quiet=True)
 nltk.download('punkt', quiet=True)
 nltk.download('wordnet', quiet=True)
 
 #create label to classification relations
-
-#true, mostly-true, half-true, barely-true, false, pants-fire
 true_labels = ['true', 'mostly-true']
 false_labels = ['false', 'pants-fire']
 
-#create map for each label and it's class (0/1)
 label_mapping = {label: 1 for label in true_labels}
 label_mapping.update({label: 0 for label in false_labels})
 
-# Read in the training dataset
-#tsv structure: statement: with properties => label, claim, (add 'class' column at the end)
-
-#each row is called a claim
+# Read in training dataset
 col_dict = {
     "id": 0, 
     "label": 1, 
@@ -67,56 +53,30 @@ col_dict = {
 column_names = ["label", "statement", 'subject', 'speaker', 'speaker_job_title', 'party_affiliation', 'context']
 usecols = [col_dict[key] for key in column_names]
 
-train_df_og = pd.read_csv("train.tsv", sep="\t", header=None, names=column_names, usecols=usecols, quoting=csv.QUOTE_NONE)
+train_df = pd.read_csv("train.tsv", sep="\t", header=None, names=column_names, usecols=usecols, quoting=csv.QUOTE_NONE)
 test_df = pd.read_csv("test.tsv", sep="\t", header=None, names=column_names, usecols=usecols, quoting=csv.QUOTE_NONE)
 
-# create new column with 'class' being either 0/1 based on the label
-# we'll also drop any claim row that doesn't have one of the labels we're looking at
+# create new col with 'class' being either 0/1 based on the label
+# drop any row that doesn't have one of the labels we're looking at
 def fixDataFrame(df, label_mapping):
     df['class'] = df['label'].str.strip().str.lower().map(label_mapping)
     return df.dropna(subset=['class'])
-def checkDF(df):
-    print("Sample of data entries:")
-    print(df.sample(5, random_state=0))
-    print(f"Total Entries: {len(df)}")
 
-    counts = df['class'].value_counts()
-    print(f"Count of 0's: {counts.get(0, 0)}")
-    print(f"Count of 1's: {counts.get(1, 0)}")
-
-train_df = fixDataFrame(train_df_og, label_mapping)
+train_df = fixDataFrame(train_df, label_mapping)
 test_df = fixDataFrame(test_df, label_mapping)
 
-# Print label distribution
-print("Training label dist:")
-print(train_df['label'].value_counts())
-print()
-print(f"Total True Claims: {len(train_df[train_df['label'].isin(true_labels)])}")
-print(f"Total True Claims: {len(train_df[train_df['label'].isin(false_labels)])}")
-
-# Create True and Fake media claims Data Frame
+# Create True and Fake media claims df
 true_df = train_df[train_df['label'].isin(true_labels)]
-false_df = train_df[train_df['label'].isin(false_labels)]
+fake_df = train_df[train_df['label'].isin(false_labels)]
 
-# max possible claims that can be used to train false and true 
-# Balance the training dataset (50/50)
-maxClaims = min(len(false_df), len(true_df))
+# max poss claims that can be used to train false and true 
+# balance the training dataset (50/50)
+maxClaims = min(len(fake_df), len(true_df))
 true_df = true_df.sample(maxClaims, random_state=10)
-false_df = false_df.sample(maxClaims, random_state=10)
+false_df = fake_df.sample(maxClaims, random_state=10)
 balanced_train_df = pd.concat([true_df, false_df]).sample(frac=1, random_state=42).reset_index(drop=True)
 
-print("\nBalanced training label dist:")
-print(balanced_train_df['class'].value_counts())
-
-# Testing Label DataFrame
-
-print("\nTest label dist:")
-print(test_df['label'].value_counts())
-
-print("\nCounts of binary classification (1:true, 0: false)")
-print(test_df['class'].value_counts())
-
-# Preprocessing, create new column 'clean_text'
+# Preprocessing
 def preprocess_text(text):
     text = re.sub(r'[^a-zA-Z]', ' ', str(text)).lower()
     tokens = word_tokenize(text)
@@ -135,61 +95,34 @@ y_train = balanced_train_df['class']
 X_test = vectorizer.transform(test_df['clean_text'])
 y_test = test_df['class']
 
-# Naive Bayes
-nb_classifier = MultinomialNB()
-nb_classifier.fit(X_train, y_train)
-y_pred = nb_classifier.predict(X_test)
-accuracy = accuracy_score(y_test, y_pred)
-print("\nNaive Bayes:")
-print(f"Accuracy: {accuracy:.4f}")
-print("Classification Report:\n", classification_report(y_test, y_pred))
+# Random Baseline
+random_clf = DummyClassifier(strategy='uniform', random_state=42)
+random_clf.fit(X_train, y_train)
+random_pred = random_clf.predict(X_test)
 
-# Logistic Regression
-log_reg = LogisticRegression(max_iter=1000)
-log_reg.fit(X_train, y_train)
-log_pred = log_reg.predict(X_test)
-log_accuracy = accuracy_score(y_test, log_pred)
-print("Logistic Regression:")
-print(f"Accuracy: {log_accuracy:.4f}")
-print("Classification Report:\n", classification_report(y_test, log_pred))
+random_accuracy = accuracy_score(y_test, random_pred)
+random_precision = precision_score(y_test, random_pred, zero_division=0)
+random_recall = recall_score(y_test, random_pred, zero_division=0)
+random_f1 = f1_score(y_test, random_pred, zero_division=0)
 
-# SVM
-svm = LinearSVC()
-svm.fit(X_train, y_train)
-svm_pred = svm.predict(X_test)
-svm_accuracy = accuracy_score(y_test, svm_pred)
-print("SVC:")
-print(f"Accuracy: {svm_accuracy:.4f}")
-print("Classification Report:\n", classification_report(y_test, svm_pred))
+print("\nRandom Baseline:")
+print(f"Accuracy: {random_accuracy:.4f}")
+print(f"Precision: {random_precision:.4f}")
+print(f"Recall: {random_recall:.4f}")
+print(f"F1 Score: {random_f1:.4f}")
 
-# Confusion matrices
-nb_cm = confusion_matrix(y_test, y_pred)
-cm_logreg = confusion_matrix(y_test, log_pred)
-cm_svm = confusion_matrix(y_test, svm_pred)
+# Majority Class Baseline
+majority_clf = DummyClassifier(strategy='most_frequent')
+majority_clf.fit(X_train, y_train)
+majority_pred = majority_clf.predict(X_test)
 
-# Define the confusion matrices and titles
+majority_accuracy = accuracy_score(y_test, majority_pred)
+majority_precision = precision_score(y_test, majority_pred, zero_division=0)
+majority_recall = recall_score(y_test, majority_pred, zero_division=0)
+majority_f1 = f1_score(y_test, majority_pred, zero_division=0)
 
-#transpose confusion matrices to get it in right orientation given sns heatmap being used
-cms = [nb_cm.T, cm_logreg.T, cm_svm.T]
-titles = ['Naive Bayes Confusion Matrix', 'Logistic Regression Confusion Matrix', 'SVM Confusion Matrix']
-cmaps = ['Blues', 'Reds', 'Purples']
-
-# loop through heatmaps
-figsize = (6, 5)
-
-for i, (cm, title, cmap) in enumerate(zip(cms, titles, cmaps)):
-    fig, ax = plt.subplots(figsize=figsize)
-    sns.heatmap(cm, annot=True, fmt='d', cmap=cmap,
-                yticklabels=["Predicted Fake", "Predicted Real"],
-                xticklabels=["Actual Fake", "Actual Real"],
-                cbar=False, ax=ax)  
-    ax.set_title(title)
-    ax.xaxis.set_label_position('top') 
-    ax.xaxis.tick_top()
-    
-    plt.tight_layout()
-    
-    # save plots as images
-    #plt.savefig(f'plot_{i}.png', bbox_inches='tight', dpi=300)
-    
-    plt.show()
+print("\nMajority Class Baseline:")
+print(f"Accuracy: {majority_accuracy:.4f}")
+print(f"Precision: {majority_precision:.4f}")
+print(f"Recall: {majority_recall:.4f}")
+print(f"F1 Score: {majority_f1:.4f}")
